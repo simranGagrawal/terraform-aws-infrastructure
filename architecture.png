@@ -1,0 +1,4 @@
+VPC
+ └ Subnet
+     └ EC2
+         └ Security Group
